@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "owner": "Costa-dias",
+  "host": "corretor-imoveis-frontend.onrender.com",
+  "repository": "Costa-dias/Corretor-de-imoveis-vitrine",
+  "registration": "d9d1bcc3461749a114f3122f3d6f3129",
+  "scope": [
+    "https-headers"
+  ]
+}
