@@ -1,21 +1,22 @@
-# 🏠 Plataforma para Corretor de Imóveis
+# Vitrine Imobiliária
 
-Plataforma web full-stack desenvolvida para a exibição, busca e gestão de catálogo imobiliário. O projeto foca em oferecer uma experiência moderna e fluida para clientes interessados em comprar ou alugar imóveis, além de facilitar o contato direto com o corretor.
+**Versão 1.1.0 · atualizado em 30/10/2026**
 
-🔗 **Acesse o projeto online:** [corretor-imoveis-frontend.onrender.com](https://corretor-imoveis-frontend.onrender.com/)
+Vitrine demonstrativa adicionada ao projeto existente, preservando o layout original, com exemplos fictícios e navegação independente do cadastro de produção, sem dados de corretor.
 
----
+[Histórico e critérios da versão](RELEASES.md).
 
-### 🚀 Funcionalidades
-* **Catálogo de Imóveis:** Listagem interativa com fotos, descrições detalhadas, preços e status do imóvel.
-* **Filtros de Busca:** Navegação facilitada para encontrar propriedades por categoria e localização.
-* **Contato Direto:** Integração para envio de mensagens e agendamento de visitas diretamente com o corretor.
-* **Design Responsivo:** Interface otimizada para smartphones, tablets e computadores.
+Aplicação web para apresentação de imóveis. A vitrine pública preserva o layout original com fotografias, busca, filtro por venda/aluguel e fichas de imóveis fictícios, sem nome, telefone, CRECI ou contatos de corretor.
 
----
+[Abrir demonstração](https://corretor-imoveis-frontend.onrender.com/)
 
-### 🛠️ Tecnologias Utilizadas
-* **Frontend:** JavaScript, HTML5, CSS3
-* **Backend:** Python
-* **Hospedagem:** Render (Full-stack)
+## Demonstração e projeto completo
 
+- A vitrine pública usa exemplos e valores ilustrativos e funciona sem consultar o cadastro de produção.
+- O projeto completo contém backend Python e área administrativa autenticada para gestão de anúncios.
+- Interface em React e JavaScript, com build Vite; hospedagem no Render.
+- A demonstração não representa ofertas reais nem recebe solicitações para um corretor.
+
+## Sobre este repositório
+
+Este repositório contém apenas a apresentação profissional. O código-fonte completo permanece privado. A versão acima identifica a aplicação demonstrada, não um pacote de código disponível aqui.
